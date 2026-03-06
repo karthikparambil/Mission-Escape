@@ -16,9 +16,6 @@ Mission:Escape is an intentionally vulnerable machine created to practice penetr
 
 <hr>
 
-### <b>✎</b>  Complete Walkthrough 
-
-   https://medium.com/@karthikparambil9/mission-escape-walkthrough-7d65c7d15ad2
 
 ### SHA256 Checksum
 To verify the integrity of the downloaded machine, use the following SHA256 checksum:
